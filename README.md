@@ -6,9 +6,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Best Practices](#best-practices)
 
 ## Introduction
 
@@ -28,8 +26,10 @@ To run this application locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/password-generator-react.git
-   cd password-generator-react
+   git clone https://github.com/supremeashu/Password-Generator.git
+   ```
+   ```
+   cd Password-Generator
    ```
 2. **Install Dependencies**
  
@@ -41,10 +41,6 @@ To run this application locally, follow these steps:
     ```bash
     npm run dev
     ```
-
-# Password Generator
-
-This tool allows you to generate secure passwords with customizable options.
 
 ## Usage
 
